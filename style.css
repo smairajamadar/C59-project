@@ -1,0 +1,10 @@
+.bodyimg{
+    display:flex;
+    justify-content: space-between;
+    width:320px;
+}
+.bodyimg img{
+    border:2px solid black;
+    
+}
+
